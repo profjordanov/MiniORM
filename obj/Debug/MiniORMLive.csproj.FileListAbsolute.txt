@@ -1,5 +1,0 @@
-D:\SoftUni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.exe.config
-D:\SoftUni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.exe
-D:\SoftUni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM-Solution\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.pdb
-D:\SoftUni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM-Solution\MiniORMLive\MiniORMLive\obj\Debug\MiniORMLive.exe
-D:\SoftUni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM-Solution\MiniORMLive\MiniORMLive\obj\Debug\MiniORMLive.pdb
